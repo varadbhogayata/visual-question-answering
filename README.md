@@ -2,6 +2,7 @@
 The Intelligent system which gives answer to an Image and a Natural Language Question related to image. This is a simple updated demo of VQA by [VQA_Demo](https://github.com/iamaaditya/VQA_Demo/) which uses pretrained models (VGG, VQA) to answer a given question.
 
 # Model Architecture
+The arhitecture behind the implementation is based on the model proposed in this[paper](https://arxiv.org/pdf/1505.00468v6.pdf)
 ![LSTM + Q Model](https://github.com/varadbhogayata/Visual-Question-Answering/tree/master/Images/LSTM+Q.png)
 
 # Dependencies
