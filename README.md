@@ -3,6 +3,7 @@ The Intelligent system which gives answer to an Image and a Natural Language Que
 
 # Model Architecture
 The arhitecture behind the implementation is based on the model proposed in this[paper](https://arxiv.org/pdf/1505.00468v6.pdf)
+
 ![LSTM + Q Model](https://github.com/varadbhogayata/Visual-Question-Answering/tree/master/Images/LSTM+Q.png)
 
 # Dependencies
@@ -14,5 +15,6 @@ The arhitecture behind the implementation is based on the model proposed in this
 
 # Run
 Put image in the data/ directory to test the image on this model, after run this file: 
-'''python VQAdemo.py'''
+
+python VQAdemo.py
 
