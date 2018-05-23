@@ -13,5 +13,6 @@ The arhitecture behind the implementation is based on the model proposed in this
 5. VGG-16 pretrained weights
 
 # Run
-Put image in the data/ directory to test the image on this model, after run this file: python VQAdemo.py
+Put image in the data/ directory to test the image on this model, after run this file: 
+'''python VQAdemo.py'''
 
