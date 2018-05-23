@@ -12,6 +12,5 @@ The Intelligent system which gives answer to an Image and a Natural Language Que
 5. VGG-16 pretrained weights
 
 # Run
-Put image in the data/ directory to test the image on this model, after run this file
-python VQAdemo.py
+Put image in the data/ directory to test the image on this model, after run this file: python VQAdemo.py
 
